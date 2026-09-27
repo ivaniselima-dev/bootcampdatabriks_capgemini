@@ -1,0 +1,10 @@
+temp-setup-secrets*
+*secrets*.ipynb
+*secrets*.py
+*.csv
+*.json
+*.parquet
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
